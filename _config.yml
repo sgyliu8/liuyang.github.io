@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Yang Liu"
 title_separator          : "-"
 name                     : &name "Yang Liu"
-description              : &description "personal description"
+description              : &description "Hello World!"
 url                      : https://sgyliu8.github.io/liuyangstar # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "peterliuzhao"
-  avatar           : "WeChat Image_20230429220719.jpg"
-  bio              : "Constantly evolving individual"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Yang Liu"
+  avatar           : "profile.png"
+  bio              : "Research Fellowship in Group of Construction of Machines and Vehicles, Department of Mechanical Engineering"
+  location         : "Milano, Italy"
+  employer         : "Politecnico di Milano"
+  pubmed           : 
+  googlescholar    : 
+  email            : "sgyliu@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/yliu991/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

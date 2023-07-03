@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yang Liu"
+title                    : "Pointer / Psychology & Engineering & Purpose"
 title_separator          : "-"
-name                     : &name "Yang Liu"
-description              : &description "Hello World!"
-url                      : https://liuyangstar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "peterliuzhao"
+description              : &description "personal description"
+url                      : https://peterliuzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Liu"
-  avatar           : "profile.png"
-  bio              : "Research Fellowship in Group of Construction of Machines and Vehicles, Department of Mechanical Engineering"
-  location         : "Milano, Italy"
-  employer         : "Politecnico di Milano"
-  pubmed           : 
-  googlescholar    : 
-  email            : "sgyliu@gmail.com"
-  researchgate     :  
+  name             : "peterliuzhao"
+  avatar           : "WeChat Image_20230429220719.jpg"
+  bio              : "Constantly evolving individual"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/yliu991/"
+  linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

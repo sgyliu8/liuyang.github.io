@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yang Liu"
   avatar           : "profile.png"
-  bio              : "I want to play tennis."
-  location         : "Milano"
+  bio              : "Research Fellowship in Group of Construction of Machines and Vehicles, Department of Mechanical Engineering"
+  location         : "Milano, Italy"
   employer         : "Politecnico di Milano"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :"sgyliu@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/yliu991/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

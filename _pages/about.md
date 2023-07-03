@@ -17,4 +17,4 @@ More info about Yang can be found in [LinkedIn](https://www.linkedin.com/in/yliu
 
 Interest
 ======
-Kindly inform me if you are interested in playing tennis. I would classify [myself](https://www.xiaohongshu.com/user/profile/616742cf000000000201bd6a?xhsshare=CopyLink&appuid=616742cf000000000201bd6a&apptime=1688393052) as an intermediate/advanced player with an NTRP rating of around 4.0./advanced player with an NTRP rating of around 4.0.
+Kindly inform me if you are interested in playing tennis. I would classify myself as an intermediate/advanced player with an NTRP rating of around 4.0./advanced player with an NTRP rating of around 4.0.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who am I? Yang Liu （刘杨）"
+title: "Who am I? Yang Liu （刘杨)."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ For more info
 More info about Yang can be found on my [LinkedIn](https://www.linkedin.com/in/yliu991/) or [Email](sgyliu@gmail.com) 
 
 Interest
-======
+------
 In addition to my academic pursuits, I have a deep passion for physical and intellectual sports. I am an excellent tennis player, cyclist, and sprinter. I have been an RC plane modeller for my entire life, and I fondly remember building and flying my very first large nitro RC aeroplane back in 1999. Since then, I have worked with various RC planes, from F3A to F3C, which has furthered my interest in aviation.
 
 ------

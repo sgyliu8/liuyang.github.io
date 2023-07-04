@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yang Liu"
   avatar           : "profile.png"
-  bio              : "Research Fellowship in Group of Construction of Machines and Vehicles, Department of Mechanical Engineering"
+  bio              : "Research Fellow in Department of Mechanical Engineering"
   location         : "Milano, Italy"
   employer         : "Politecnico di Milano"
   pubmed           : 
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/yliu991/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  LinkedIn         : #https://www.linkedin.com/in/yliu991/
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

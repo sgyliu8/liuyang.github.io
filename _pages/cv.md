@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -25,6 +25,7 @@ Work experience
 ======
 * 2022-current: Postdoctoral Research Fellow at Politecnico di Milano
   * Designed and constructed an innovative, cost-effective, and incredibly compact test solution for performing on-line strain collection of gear teeth. This groundbreaking solution is closely linked to the PRIN project.
+  * Carried on Noise analysis project
 
 * 2016-2021: Aero Gas Turbine Diagnostics Software Developer at Cranfield University
 	* Developed gas turbine simulation and diagnostics software (PYTHIA). Constructed customized simulation, data processing, and diagnostics modules for the system using the C# language. Integrated the software with GUI and data visualization.
